@@ -10,9 +10,9 @@
 				Contact Information
 			</h3>
 			<div class="text-slate-400 font-large">
-				<p>Name: Hayden Constas</p>
-				<p>Email: hjconstas [at] gmail.com</p>
-				<p>Phone Number: +1 (7[zero]8)-830-0299</p>
+				<p>Name: Sai Sushma Pasupuleti</p>
+				<p>Email: saisushma.er [at] gmail.com</p>
+				
 			</div>
 			<div class="flex flex-col gap-3 mt-4">
 				<button
