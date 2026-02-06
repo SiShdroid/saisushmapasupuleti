@@ -46,14 +46,24 @@
 	onDestroy(unsubscribe);
 </script>
 
-<nav class="absolute left-0 right-0 z-50 mx-auto max-w-7xl p-4 md:p-6">
-	<ul class="flex items-end justify-between text-slate-700">
+<nav class="fixed left-0 right-0 top-0 z-[9999] mx-auto max-w-7xl p-4 md:p-6 pointer-events-none">
+	<ul class="flex items-end justify-between text-slate-700 pointer-events-auto">
 		<li>
-			<a href="/" class="-ml-2 block p-2 text-sm font-bold tracking-tight">Sai Sushma Pasupuleti</a>
+			<a href="/" class="-ml-2 block p-2 text-sm font-bold tracking-tight">
+				Sai Sushma Pasupuleti
+			</a>
 		</li>
+
 		<li class="flex-1"></li>
+
 		<li>
-			<a href="https://www.linkedin.com/in/saisushmapasupuleti/" class="-mr-1 block h-10 w-10 p-1">
+			<a
+				href="https://www.linkedin.com/in/saisushmapasupuleti/"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="-mr-1 block h-10 w-10 p-1 pointer-events-auto"
+				aria-label="LinkedIn"
+			>
 				<LinkedIn />
 			</a>
 		</li>
