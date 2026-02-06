@@ -12,11 +12,11 @@ WARNING: This is using Svelte 5 which is not yet production ready.
 
 ## About Me 👨‍💻
 
-I'm Sai Sushma Pasupuleti, a Doctoral Student at University of Houston. I'm an electrical engineering student and I specialize in design and control of power electronics. I'm passionate about working on providing solutions to the real-world problems. I believe it is important to be in a constant state of learning, and more importantly to use that learning. Other thank work, I like to play badminton, dance to classical rythmns, and work on cool projects!
+I'm Sai Sushma Pasupuleti, a Doctoral Student at University of Houston. I'm an electrical engineering student and I specialize in design and control of power electronics. I'm passionate about working on providing solutions to the real-world problems. I believe it is important to be in a constant state of learning, and more importantly to use that learning. Outside work, I like to play badminton, dance to classical rythmns, and work on cool projects!
 
 ## Featured Projects 🚀
 
-- **Gut Health Monitor** - IoT device for dietary feedback with full-stack development and ML integration
+- **Wireless Power Transfer** - A wireless charger for real-world EVs, built using the inductive coupling method
 - **AIAA Build Design Fly Competition** - Leading a 20-person team designing a 6ft RC plane for competition
 - **Pipeline Integrity Device** - MVP device that secured $200k in seed funding with Chevron
 - **Baby Monitor** - IoT device for diaper change detection using biology and hardware integration
