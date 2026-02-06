@@ -70,7 +70,7 @@
 		class="relative z-40 h-[40vh] w-full min-w-[100vh] bg-cover bg-top md:mt-44 xl:h-[50vh]"
 	></div>
 	<a href="#work" aria-label="Scroll Down">
-<a href="#about" aria-label="Scroll Down">
+
 	<div
 		class="absolute bottom-12 left-0 right-0 z-50 mx-auto h-16 w-16 animate-bounce rounded-full bg-slate-900/20 p-4 text-slate-200 md:h-20 md:w-20"
 	>
