@@ -58,7 +58,7 @@
 
 		<li>
 			<a
-				href="https://www.linkedin.com/in/saisushmapasupuleti/"
+				href="https://www.linkedin.com/in/saisushmap/"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="-mr-1 block h-10 w-10 p-1 pointer-events-auto"
