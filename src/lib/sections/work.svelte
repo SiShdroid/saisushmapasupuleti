@@ -34,77 +34,77 @@
 
 	const work = [
     {
-        from: 'May 2024',
-        to: 'June 2024',
-        title: 'Software Development Intern',
-        workPlace: '@CACI, CO',
+        from: 'Nov 2024',
+        to: 'Present',
+        title: 'Graduate Research Assistant',
+        workPlace: 'University of Houston',
         body: [
-            'Worked on the SAFFIRE which provides satellite GIS insights for DoD partners.',
-            'Collaborated with a team to improve satellite data utility.'
+            'Working on the design and control of a underwater power supply for maintaining acoustic sensor signalling in deep ocean',
+            'Worked on PCB design using Altium, hardware testing & validation and verification of the prototype.'
         ],
         keywords: [
-            'Software Development',
-            'GIS',
-            'Satellite Systems',
-            'DoD',
+            'Hardware Engineer',
+            'Electrical Engineering',
+            'Power Electronics',
+            'NSF',
             'Team Collaboration'
         ],
         icons: [Svelte,Docker,Javascript,Powershell,Aws]
     },
     {
-        from: 'June 2023',
-        to: 'Jan 2024',
-        title: 'Co-Founder',
-        workPlace: '@Protogenesis, CO',
+        from: 'August 2023',
+        to: 'November 2024',
+        title: 'Graduate Research Assistant',
+        workPlace: 'University of Houston',
         body: [
-            'Co-founded an engineering firm focusing on developing MVPs for small businesses.',
-            'Created automated tools to streamline operations and gained full-stack web development experience.',
-            'Mentored engineering students employed at the firm.'
+            'Designed 6-layer PCB using Altium PCB Designer for +175C application',
+            'Collaborated with a team on the schemaic and layout design',
+            'Simulated a closed loop control of High-Voltage Boost Converter using PSIM'
         ],
         keywords: [
-            'Entrepreneurship',
-            'Product Development',
-            'Automation',
-            'Web Development',
-            'Leadership'
+            'High Voltage',
+            'Altium PCB Design',
+            'PSIM Simulation',
+            '6-layer PCB development',
+            'Team collaboration'
         ],
         icons: [MicrosoftOffice,C,OpenAi,Javascript,Svelte,Aws]
     },
     {
-        from: 'Oct 2022',
-        to: 'July 2023',
-        title: 'Co-Proprietor',
-        workPlace: '@Upstream Vee, CO',
+        from: 'August 2022',
+        to: 'May 2023',
+        title: 'Graduate Research Assistant',
+        workPlace: 'Clemson UNiversity',
         body: [
-            'Developed affordable solutions for monitoring oil and gas pipelines.',
-            'Collaborated with Chevron and leading to securing $200k in seed funding.',
-            'Led design iteration and testing of MVP for field applications.'
+            'Analyzed operation and thermal management of Wind turbine based PMSG in Ansys motorCAD',
+            'Simulated permanent magnet synchronous generator (PMSG) with speed as input in MATLAB Simulink with theoretical equations and validation.'
+            
         ],
         keywords: [
-            'Pipeline Monitoring',
-            'Innovation',
-            'Entrepreneurship',
-            'Funding',
-            'Collaboration'
+            'Ansys',
+            'Permanent Magnet Synchronous Generator',
+            'Simulation',
+            'VIPR-GS',
         ],
         icons: []
     },
     {
-        from: 'June 2018',
-        to: 'Feb 2023',
-        title: 'Freelance Certified Drone Operator',
-        workPlace: '@Self-Employed, IL - CO',
+        from: 'August 2019',
+        to: 'July 2022',
+        title: 'Graduate Research Assistant',
+        workPlace: 'Indian Institute of Technology, Mandi',
         body: [
-            'Filmed marketing videos for real estate, construction, and other industries.',
-            'Built and maintained a fleet of drones for commercial projects.',
-            'Provided tailored drone solutions to meet diverse client needs.'
+            'Created a complete validation test setup from scratch of a BLDC motor model with battery-supercapacitor (SC) hybrid energy storage system (HESS) and inductive wireless power transfer.',
+            'Designed digital control of bidirectional buck-boost converter using real-time platform such as dSPACE.',
+            'Developed and validated a 600W Bi-directional Wireless Power Transfer system for Electric Vehicles (EVs) and tested for European drivetrain as a real-life drive scenario.'
         ],
         keywords: [
-            'Drone Operations',
-            'FAA Licensed',
-            'Video Production',
-            'Client Relations',
-            'Fleet Management'
+            'Wireless power transfer',
+            'Electric Vehicles',
+            'hybrid energy storage system',
+            'BLDC motor model',
+            'dSPACE',
+			'DSP microcontroller'
         ],
         icons: []
     }
@@ -137,7 +137,7 @@
         <p 
         class="mb-16 pr-24 text-2xl font-medium leading-tight tracking-tight text-slate-300 md:text-3xl lg:w-1/2"
     >
-        My name is <span class="font-bold">Hayden Constas</span>. I'm an electrical engineer with a background in entrepreneurship. I've learned a lot the hard way, and am always looking forward to the next challege. Here's the journey I've been on so far. 
+        My name is <span class="font-bold">Sai Sushma Pasupuleti</span>. I'm an Electrical Engineering Doctoral student specializing in power electronics, GaN-based hardware design, and automated validation test systems for energy applications. 
     </p>
     
 		</a>
