@@ -1,6 +1,6 @@
-# Hayden Constas - Personal Website 🔥
+# Sai Sushma Pasupuleti - Personal Website 🔥
 
-I created this website to serve as my online resume and showcase my engineering projects. It highlights my journey from entrepreneurship to electrical engineering, featuring various projects from hardware to software development.
+This website is a great introduction of me and my work. As a PhD student, I feel it is important to share what I learn and I will make this site as exciting and as informative as possible.
 
 Demo: [https://haydenconstas.com](https://haydenconstas.com)
 
@@ -12,7 +12,7 @@ WARNING: This is using Svelte 5 which is not yet production ready.
 
 ## About Me 👨‍💻
 
-I'm Hayden Constas, an electrical engineer with a background in entrepreneurship. I'm passionate about combining hardware and software to create innovative solutions. My journey includes founding engineering firms, developing IoT devices, and leading technical teams.
+I'm Sai Sushma Pasupuleti, a Doctoral Student at University of Houston. I'm an electrical engineering student and I specialize in design and control of power electronics. I'm passionate about working on providing solutions to the real-world problems. I believe it is important to be in a constant state of learning, and more importantly to use that learning. Other thank work, I like to play badminton, dance to classical rythmns, and work on cool projects!
 
 ## Featured Projects 🚀
 
