@@ -3,11 +3,8 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 const config = {
   preprocess: vitePreprocess(),
-
   kit: {
-    adapter: adapter({
-      fallback: '404.html' // required for GitHub Pages routing
-    })
+    adapter: adapter({ fallback: '404.html' })
   }
 };
 
