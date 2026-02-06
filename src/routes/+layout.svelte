@@ -49,11 +49,11 @@
 <nav class="absolute left-0 right-0 z-50 mx-auto max-w-7xl p-4 md:p-6">
 	<ul class="flex items-end justify-between text-slate-700">
 		<li>
-			<a href="/" class="-ml-2 block p-2 text-sm font-bold tracking-tight">Hayden Constas</a>
+			<a href="/" class="-ml-2 block p-2 text-sm font-bold tracking-tight">Sai Sushma Pasupuleti</a>
 		</li>
 		<li class="flex-1"></li>
 		<li>
-			<a href="https://www.linkedin.com/in/hayden-constas-39a129228/" class="-mr-1 block h-10 w-10 p-1">
+			<a href="https://www.linkedin.com/in/saisushmapasupuleti/" class="-mr-1 block h-10 w-10 p-1">
 				<LinkedIn />
 			</a>
 		</li>
@@ -67,7 +67,7 @@
 >
 	<div class="relative mx-auto max-w-7xl px-4 md:px-6">
 		<a href="/" class="mb-2 block text-base font-bold tracking-tight text-slate-400">
-			Hayden Constas</a
+			Sai Sushma Pasupuleti</a
 		>
 		<ul
 			class="flex justify-between border-t border-slate-800 pt-16 text-sm text-slate-500 sm:gap-32"
@@ -83,7 +83,7 @@
 				</ol>
 			</li>
 			<li>
-				<a href="https://www.linkedin.com/in/hayden-constas-39a129228/" class="-mr-1 block h-10 w-10 p-1">
+				<a href="https://www.linkedin.com/in/saisushmapasupuleti/" class="-mr-1 block h-10 w-10 p-1">
 					<LinkedIn />
 				</a>
 			</li>
