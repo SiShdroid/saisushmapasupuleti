@@ -1,6 +1,6 @@
 # Sai Sushma Pasupuleti - Personal Website 🔥
 
-This website is a great introduction of me and my work. As a PhD student, I feel it is important to share what I learn and I will make this site as exciting and as informative as possible.
+This website is a great introduction of me and my work. As a PhD student, I feel it is important to share what I learn and I will make this site as exciting and informative as possible.
 
 Demo: [https://saisushmapasupuleti.com](https://saisushmapasupuleti.com)
 
@@ -12,17 +12,16 @@ WARNING: This is using Svelte 5 which is not yet production ready.
 
 ## About Me 👨‍💻
 
-I'm Sai Sushma Pasupuleti, a Doctoral Student at University of Houston. I'm an electrical engineering student and I specialize in design and control of power electronics. I'm passionate about working on providing solutions to the real-world problems. I believe it is important to be in a constant state of learning, and more importantly to use that learning. Outside work, I like to play badminton, dance to classical rythmns, and work on cool projects!
+I'm Sai Sushma Pasupuleti, a Doctoral Student at University of Houston. I'm an electrical engineering student and I specialize in design and control of power electronic converters. I'm passionate about working on providing solutions to the real-world problems. I believe it is important to be in a constant state of learning, and more importantly to use that learning. Outside work, I like to play badminton, dance to classical rythmns, and cook different cultural dishes!
 
 ## Featured Projects 🚀
 
 - **Wireless Power Transfer** - A wireless charger for real-world EVs, built using the inductive coupling method
-- **AIAA Build Design Fly Competition** - Leading a 20-person team designing a 6ft RC plane for competition
-- **Pipeline Integrity Device** - MVP device that secured $200k in seed funding with Chevron
-- **Baby Monitor** - IoT device for diaper change detection using biology and hardware integration
-- **Robot Creation** - OpenCV and PID controller robot for ArUco marker navigation
-- **Power Supply Board** - PCB design using Eagle software
-- **Custom Shirts** - Brand building and business development
+- **3D LED** - A 6*6 3D LED structure that displays various patterns 
+- **Floor cleaning robot** - Detects water spill and cleans it with inbuilt equipment
+- **SCADA Monitoring System** - Uses GPS to detect failures in a electrical substation
+- **Line follower Robot** - A robot that follows the black line and races to the end of it.
+- **Power Supply Boards** - Worked on building 4 PCB boards using either Altium and KiCAD softwares
 
 ## Features ✨
 
